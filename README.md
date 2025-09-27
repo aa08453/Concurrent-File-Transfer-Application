@@ -57,8 +57,6 @@ The `tests.sh` script automatically performs the following steps:
 
 ## References
 1. [Socket Programming in C](https://www.geeksforgeeks.org/socket-programming-cc/)
-2. [Getting File Size in C](https://stackoverflow.com/questions/238603/how-can-i-get-a-files-size-in-c)
-3. [Usage of `strncpy`](https://stackoverflow.com/questions/52207214/how-to-use-strncpy-correctly), [GeeksforGeeks on `strncpy`](https://www.geeksforgeeks.org/strncpy-function-in-c/)
-4. [SHA-256 with OpenSSL](https://stackoverflow.com/questions/2262386/generate-sha256-with-openssl-and-c)
-5. [Sample Files for Testing](https://sample-videos.com/download-sample-jpg-image.php)
-6. ChatGPT has been used to generate and use SHA-256 functions in the `definitions.h` file.
+2. [SHA-256 with OpenSSL](https://stackoverflow.com/questions/2262386/generate-sha256-with-openssl-and-c)
+3. [Sample Files for Testing](https://sample-videos.com/download-sample-jpg-image.php)
+4. ChatGPT has been used to generate and use SHA-256 functions in the `definitions.h` file.
